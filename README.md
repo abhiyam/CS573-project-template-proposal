@@ -2,17 +2,17 @@
 
 ## Data
 
-The data I propose to visualize for my project is a bar plot that compares resting heart rate with males and females. 
+The data I propose to visualize for my project is a dataset that is about cholestrol and heart faliures. I want to gain more insight on how different factors impact resting heart rate, cholestrol and blood pressure.  
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * What is the impact of being a certain gender on the resting heart rate?
+ * How does age impact cholestrol levels?
+ * How does age impact resting heart rate?
+ * How does age impact blood pressure?
 
 ## Sketches
 
