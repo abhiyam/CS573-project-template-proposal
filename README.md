@@ -27,7 +27,7 @@ This is another graph I sketched in ms paint.
 I’ve created a proof of concept visualization of this data. It's a bar chart and it shows Males vs Females with their resting heart rate. 
 [![image]([https://github.com/abhiyam/CS573-project-template-proposal/blob/master/sketch.png)]((https://vizhub.com/abhiyam/550f22fa080345c8bd8d1e511e6e201b))
 
-[![image]([https://vizhub.com/abhiyam/8619c88b7ee749988c85a834e90c6e6a](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/assignment4.png))]
+[![image]([https://github.com/abhiyam/CS573-project-template-proposal/blob/master/assignment4.png)]
 ((https://vizhub.com/abhiyam/8619c88b7ee749988c85a834e90c6e6a))
 
 ```
