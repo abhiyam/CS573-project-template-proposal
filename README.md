@@ -24,7 +24,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 I’ve created a proof of concept visualization of this data. It's a bar chart and it shows Males vs Females with their resting heart rate. 
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)]((https://vizhub.com/abhiyam/550f22fa080345c8bd8d1e511e6e201b))
+[![image]([https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/sketch.png))]((https://vizhub.com/abhiyam/550f22fa080345c8bd8d1e511e6e201b))
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)]((https://vizhub.com/abhiyam/8619c88b7ee749988c85a834e90c6e6a))
 
