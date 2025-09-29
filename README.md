@@ -29,8 +29,10 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 [![image]([https://github.com/abhiyam/CS573-project-template-proposal/blob/master/sketch.png)]
 ((https://vizhub.com/abhiyam/550f22fa080345c8bd8d1e511e6e201b))
 
+Here is another proof of concept visualization. This is a scatter plot of how age impacts cholestrol levels. I had a previous prototype of this, but I edited this and cleaned it up. I also added labels to determine which of the datapoints are different genders
+
 [![image]([https://github.com/abhiyam/CS573-project-template-proposal/blob/master/assignment4.png)]
-((https://vizhub.com/abhiyam/8619c88b7ee749988c85a834e90c6e6a))
+((https://vizhub.com/abhiyam/46f04484634c4c0cbb1020967e29ba8a))
 
 
 ## Open Questions
