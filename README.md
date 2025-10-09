@@ -1,4 +1,4 @@
-<img width="1195" height="625" alt="image" src="https://github.com/user-attachments/assets/741a581b-8e7c-4afa-9e18-6e1a64c0a194" /># Data Visualization Project
+# Data Visualization Project
 
 ## Data
 
