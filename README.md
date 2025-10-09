@@ -1,4 +1,4 @@
-# Data Visualization Project
+<img width="1195" height="625" alt="image" src="https://github.com/user-attachments/assets/741a581b-8e7c-4afa-9e18-6e1a64c0a194" /># Data Visualization Project
 
 ## Data
 
@@ -34,6 +34,9 @@ Here is another proof of concept visualization. This is a scatter plot of how ag
 [![image](Prototype2.png)]
 ((https://vizhub.com/abhiyam/46f04484634c4c0cbb1020967e29ba8a))
 
+Here is the 3rd proof of concept visualization. This is a boxplot of the relationship between age and resting blood pressure. 
+[![image](Prototype3.png)]
+((https://vizhub.com/abhiyam/da13a347c64f425f8058c700cca1f48c))
 
 ## Open Questions
 
