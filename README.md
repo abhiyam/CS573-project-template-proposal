@@ -39,7 +39,7 @@ Here is the 3rd proof of concept visualization. This is a boxplot of the relatio
 ((https://vizhub.com/abhiyam/da13a347c64f425f8058c700cca1f48c))
 
 I have further incremented on this 3rd proof of concept visualization by adding more interactivity within it. This boxplot now can cycle between different Y axes, so that the user can compare the different variables. Additionally, it now also includes hovering, so that the user can highlight specific parts of the boxplot. Overall, it is a solid step up from the previous prototype. 
-[![image](Prototype 3 incrementation.png)]
+[![image](Prototype3incrementation.png)]
 ((https://vizhub.com/abhiyam/80db9a7bbcfb4018b7a12ff7d59000b5))
 
 ## Open Questions
