@@ -33,7 +33,7 @@ Here is another proof of concept visualization. This is a scatter plot of how ag
 
 I have updated this prototype, this prototype is now interactive when you click on each bar plot, and now also contains a legend for the user to determine which colors are male and female. When clicking male, it makes female dim and vice versa to further highlight each bar graph. This can be seen below. 
 
-[![image(prototype1incrementation.png]
+[![image](prototype1incrementation.png)]
 ((https://vizhub.com/abhiyam/4378e51ef542465f8e9486b87e36d2ee))
 
 [![image](Prototype2.png)]
