@@ -31,6 +31,11 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 
 Here is another proof of concept visualization. This is a scatter plot of how age impacts cholestrol levels. I had a previous prototype of this, but I edited this and cleaned it up. I also added labels to determine which of the datapoints are different genders. Additionally, for making progress on this, I was able to add an interactive legend to the graph, which makes it more user friendly. 
 
+I have updated this prototype, this prototype is now interactive when you click on each bar plot, and now also contains a legend for the user to determine which colors are male and female. When clicking male, it makes female dim and vice versa to further highlight each bar graph. This can be seen below. 
+
+[![image(prototype1incrementation.png]
+((https://vizhub.com/abhiyam/4378e51ef542465f8e9486b87e36d2ee))
+
 [![image](Prototype2.png)]
 ((https://vizhub.com/abhiyam/d5381425142d44dab3e8a9ca620ef781))
 
