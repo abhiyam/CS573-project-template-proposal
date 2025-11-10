@@ -29,7 +29,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-[![image]([https://github.com/abhiyam/CS573-project-template-proposal/blob/master/Graphs-min.jpg)]
+[![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/Graphs-min.jpg)]
 These are some graphs that I have sketched, and are the graphs that I plan on adding to my portfolio. 
 
 [![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/image2.png)]
