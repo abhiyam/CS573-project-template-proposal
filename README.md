@@ -61,9 +61,12 @@ Here is the iteration for the previous proof of concept visualization. This is a
 [![image](Prototype2.png)]
 
 I've made 2 additional iterations to this visualization. The scatter plot here has smaller dots in order to make it more visually appealing. 
+[![image](prototype2incrementation.png)]
 ((https://vizhub.com/abhiyam/d5381425142d44dab3e8a9ca620ef781))
 
-The final iteration that can be seen is once again the interactive Y-axis. This is soemthing that I have implemented in all of the other graphs so I wanted to include it here too. It can be seen below.\]
+The final iteration that can be seen is once again the interactive Y-axis. This is soemthing that I have implemented in all of the other graphs so I wanted to include it here too. It can be seen below.
+[![image](prototype2incrementation.png)]
+((https://vizhub.com/abhiyam/9ec12ee2c4ec488fb6af3f4c1fd2fea5))
 
 Here is the 3rd proof of concept visualization. This is a boxplot of the relationship between age and resting blood pressure. 
 [![image](Prototype3.png)]
