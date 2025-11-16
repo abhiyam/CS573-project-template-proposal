@@ -59,7 +59,11 @@ Below can be seen my first implementation of the scatter plot between how age im
 Here is the iteration for the previous proof of concept visualization. This is also a scatter plot of how age impacts cholestrol levels. Compared to the previous prototype, I added labels to determine which of the datapoints are different genders. Additionally, for making progress on this, I was able to add an interactive legend to the graph, which makes it more user friendly. 
 
 [![image](Prototype2.png)]
+
+I've made 2 additional iterations to this visualization. The scatter plot here has smaller dots in order to make it more visually appealing. 
 ((https://vizhub.com/abhiyam/d5381425142d44dab3e8a9ca620ef781))
+
+The final iteration that can be seen is once again the interactive Y-axis. This is soemthing that I have implemented in all of the other graphs so I wanted to include it here too. It can be seen below.\]
 
 Here is the 3rd proof of concept visualization. This is a boxplot of the relationship between age and resting blood pressure. 
 [![image](Prototype3.png)]
