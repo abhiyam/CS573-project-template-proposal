@@ -82,6 +82,7 @@ I have further incremented on this 3rd proof of concept visualization by adding 
 
 Another prototype that I have is a correlation matrix between the numerical variables, this is something that is interesting to see how they interact with each other. I used a color gradient of pink and green to show how related each of the variables are to each other. 
 
+[![image](Prototype4.png)]
 ((https://vizhub.com/abhiyam/da6a56cba242436bb003962f1a2217d1))
 
 
