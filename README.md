@@ -78,7 +78,11 @@ Here is the 3rd proof of concept visualization. This is a boxplot of the relatio
 
 I have further incremented on this 3rd proof of concept visualization by adding more interactivity within it. This boxplot now can cycle between different Y axes, so that the user can compare the different variables. Additionally, it now also includes hovering, so that the user can highlight specific parts of the boxplot. Overall, it is a solid step up from the previous prototype. 
 [![image](Prototype3incrementation.png)]
-((https://vizhub.com/abhiyam/80db9a7bbcfb4018b7a12ff7d59000b5))
+((https://vizhub.com/abhiyam/80db9a7bbcfb4018b7a12ff7d59000b5)) 
+
+Another prototype that I have is a correlation matrix between the numerical variables, this is something that is interesting to see how they interact with each other. I used a color gradient of pink and green to show how related each of the variables are to each other. 
+
+((https://vizhub.com/abhiyam/da6a56cba242436bb003962f1a2217d1))
 
 
 ## Open Questions
