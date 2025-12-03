@@ -1,5 +1,9 @@
 # Data Visualization Project
 
+
+## Abstract
+This is a report about a CS 573 Data Visualization project. There is information below regarding Data, Questions and Tasks, Sketches, Prototypes, as well as milestones. 
+
 ## Data
 
 The data I propose to visualize for my project is a dataset that is about cholestrol and heart faliures. I want to gain more insight on how different factors impact resting heart rate, cholestrol and blood pressure. The dataset itself has a few features, and a description of each of them can be seen below. 
