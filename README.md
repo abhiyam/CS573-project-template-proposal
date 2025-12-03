@@ -23,6 +23,7 @@ Link to dataset: (https://www.kaggle.com/datasets/fedesoriano/heart-failure-pred
 9. MaxHR: This is the maximum heart rate for each person (int)
 10. ExcerciseAngina: This is if the person has exercise-induced angine (bool)
 11. OldPeak: Essentially comparing the ventricles of the heart contracting and recovering, and measuring how this is compared to the baseline. (float)
+12. HeartDisease: This has a value of 1 if the person has heart disease, and a value of 0 if the person doesn't have heart disease. (bool)
 
 
 ## Questions & Tasks
