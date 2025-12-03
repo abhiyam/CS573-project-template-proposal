@@ -63,10 +63,12 @@ In addition, to further increment this, I added a method so that the Y axis can 
 
 Below can be seen my first implementation of the scatter plot between how age impacts cholestrol levels, it can be seen below. It is very rough in the way that it sketches, due to it overlapping with the axes as well as not having a legend with gender. 
 ![image](assignment4.png)
+(https://vizhub.com/abhiyam/8619c88b7ee749988c85a834e90c6e6a)
 
 Here is the iteration for the previous proof of concept visualization. This is also a scatter plot of how age impacts cholestrol levels. Compared to the previous prototype, I added labels to determine which of the datapoints are different genders. Additionally, for making progress on this, I was able to add an interactive legend to the graph, which makes it more user friendly. 
 
 ![image](Prototype2.png)
+(https://vizhub.com/abhiyam/46f04484634c4c0cbb1020967e29ba8a)
 
 I've made 2 additional iterations to this visualization. The scatter plot here has smaller dots in order to make it more visually appealing. 
 ![image](prototype2v2.png)
