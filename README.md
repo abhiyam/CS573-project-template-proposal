@@ -5,6 +5,7 @@
 This is a report about a CS 573 Data Visualization project for Abhiram Yammanuru. There is information below regarding Data, Questions and Tasks, Sketches, Prototypes, as well as milestones. 
 
 ## Introduction
+Heart disease is a prevelant condition that takes the lives of numerous people yearly. There are factors that can impact the likelihood of one to have this condition. This analysis takes a dataset from kaggle and has 4 graphs that aim to draw conclusions on how differetn factors affects heart rates. The graphs utilized here are scatter plots, bar charts, box and whisker plots as well as a correlation matrix. Different iterations of those graphs can be seen below, in addition to the thought process behind all of the changes that have been made. 
 
 ## Data
 
@@ -38,7 +39,7 @@ The following tasks and questions will drive the visualization and interaction d
 ![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/Graphs-min.jpg)
 These are some graphs that I have sketched, and are the graphs that I plan on adding to my portfolio. 
 
-[![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/image2.png)]
+![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/image2.png)
 This is another graph I sketched in ms paint. 
 
 
@@ -46,46 +47,46 @@ This is another graph I sketched in ms paint.
 
 
 Firstly, I’ve created a proof of concept visualization of this data. It's a bar chart and it shows Males vs Females with their resting heart rate. 
-[![image](Prototype1.png)]
-((https://vizhub.com/abhiyam/550f22fa080345c8bd8d1e511e6e201b))
+![image](Prototype1.png)
+(https://vizhub.com/abhiyam/550f22fa080345c8bd8d1e511e6e201b)
 
 As the weeks have went on, I have updated this prototype, this prototype is now interactive when you click on each bar plot, and now also contains a legend for the user to determine which colors are male and female. When clicking male, it makes female dim and vice versa to further highlight each bar graph. This can be seen below. 
 
-[![image](prototype1incrementation.png)]
-((https://vizhub.com/abhiyam/4378e51ef542465f8e9486b87e36d2ee))
+![image](prototype1incrementation.png)
+(https://vizhub.com/abhiyam/4378e51ef542465f8e9486b87e36d2ee)
 
 In addition, to further increment this, I added a method so that the Y axis can be more interactive and be changed, to further show the comparison between gender. I aim to add this to all of my prototypes eventually so that the user can compare the same data with different kind of graphs and different comparisons between the variables.
 
-[![image](prototype1incrementation2.png)]
-((https://vizhub.com/abhiyam/33ddc312c5ca4ae1be4fa196b1908de3))
+![image](prototype1incrementation2.png)
+(https://vizhub.com/abhiyam/33ddc312c5ca4ae1be4fa196b1908de3)
 
 Below can be seen my first implementation of the scatter plot between how age impacts cholestrol levels, it can be seen below. It is very rough in the way that it sketches, due to it overlapping with the axes as well as not having a legend with gender. 
-[![image](assignment4.png)]
+![image](assignment4.png)
 
 Here is the iteration for the previous proof of concept visualization. This is also a scatter plot of how age impacts cholestrol levels. Compared to the previous prototype, I added labels to determine which of the datapoints are different genders. Additionally, for making progress on this, I was able to add an interactive legend to the graph, which makes it more user friendly. 
 
-[![image](Prototype2.png)]
+![image](Prototype2.png)
 
 I've made 2 additional iterations to this visualization. The scatter plot here has smaller dots in order to make it more visually appealing. 
-[![image](prototype2v2.png)]
-((https://vizhub.com/abhiyam/d5381425142d44dab3e8a9ca620ef781))
+![image](prototype2v2.png)
+(https://vizhub.com/abhiyam/d5381425142d44dab3e8a9ca620ef781)
 
 The final iteration that can be seen is once again the interactive Y-axis. This is soemthing that I have implemented in all of the other graphs so I wanted to include it here too. It can be seen below.
-[![image](prototype2incrementation.png)]
-((https://vizhub.com/abhiyam/9ec12ee2c4ec488fb6af3f4c1fd2fea5))
+![image](prototype2incrementation.png)
+(https://vizhub.com/abhiyam/9ec12ee2c4ec488fb6af3f4c1fd2fea5)
 
 Here is the 3rd proof of concept visualization. This is a boxplot of the relationship between age and resting blood pressure. 
-[![image](Prototype3.png)]
-((https://vizhub.com/abhiyam/da13a347c64f425f8058c700cca1f48c))
+![image](Prototype3.png)
+(https://vizhub.com/abhiyam/da13a347c64f425f8058c700cca1f48c)
 
 I have further incremented on this 3rd proof of concept visualization by adding more interactivity within it. This boxplot now can cycle between different Y axes, so that the user can compare the different variables. Additionally, it now also includes hovering, so that the user can highlight specific parts of the boxplot. Overall, it is a solid step up from the previous prototype. 
-[![image](Prototype3incrementation.png)]
-((https://vizhub.com/abhiyam/80db9a7bbcfb4018b7a12ff7d59000b5)) 
+![image](Prototype3incrementation.png)
+(https://vizhub.com/abhiyam/80db9a7bbcfb4018b7a12ff7d59000b5)
 
 Another prototype that I have is a correlation matrix between the numerical variables, this is something that is interesting to see how they interact with each other. I used a color gradient of pink and green to show how related each of the variables are to each other. 
 
-[![image](Prototype4.png)]
-((https://vizhub.com/abhiyam/da6a56cba242436bb003962f1a2217d1))
+![image](Prototype4.png)
+(https://vizhub.com/abhiyam/da6a56cba242436bb003962f1a2217d1)
 
 
 ## Open Questions
@@ -103,3 +104,4 @@ November: Maybe add some interactive elements?
 December: Finalizing Porfolio and polishing it up
 
 ## Conclusion
+To conclude, some insights that can be derived from these graphs include that age, cholestrol level and blood pressure are all related to each other in some ways or another. There is also a negative correlation between age and cholestrol level, as well as a negative correlation betwen max heart rate and having heart disease. Surprisingly, according to this dataset there isn't much differences between the 2 genders when it comes to blood pressure or cholestrol levels, which is something to look into the future. 
