@@ -2,7 +2,9 @@
 
 
 ## Abstract
-This is a report about a CS 573 Data Visualization project. There is information below regarding Data, Questions and Tasks, Sketches, Prototypes, as well as milestones. 
+This is a report about a CS 573 Data Visualization project for Abhiram Yammanuru. There is information below regarding Data, Questions and Tasks, Sketches, Prototypes, as well as milestones. 
+
+## Introduction
 
 ## Data
 
@@ -33,7 +35,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-[![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/Graphs-min.jpg)]
+![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/Graphs-min.jpg)
 These are some graphs that I have sketched, and are the graphs that I plan on adding to my portfolio. 
 
 [![image](https://github.com/abhiyam/CS573-project-template-proposal/blob/master/image2.png)]
@@ -99,3 +101,5 @@ September: Finish up visualization 1 and 2
 October: Finish up visualization 3 and 4
 November: Maybe add some interactive elements?
 December: Finalizing Porfolio and polishing it up
+
+## Conclusion
